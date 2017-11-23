@@ -29,7 +29,7 @@ particlesJS('particles-js',
         "enable": false,
         "speed": 1,
         "opacity_min": 0.1,
-        "sync": false
+        "sync": true
       }
     },
     "size": {
@@ -39,7 +39,7 @@ particlesJS('particles-js',
         "enable": false,
         "speed": 20,
         "size_min": 0.1,
-        "sync": false
+        "sync": true
       }
     },
     "line_linked": {
@@ -57,7 +57,7 @@ particlesJS('particles-js',
       "straight": false,
       "out_mode": "out",
       "attract": {
-        "enable": false,
+        "enable": true,
         "rotateX": 600,
         "rotateY": 1200
       }
