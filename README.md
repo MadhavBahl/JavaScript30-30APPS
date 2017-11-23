@@ -19,4 +19,6 @@ When you download the JS framework they provide, all you get is a .js file conta
 
 As you can see, it's not really a framework or a library. It's just a running gag for framework-loving bosses or people who think you NEED to use a JS framework. It means you just use whatever your browser gives you.
 
-**NO** FRAMEWORKS **NO** COMPILERS **NO** LIBRARIES **NO BOILERPLATE**
+**NO** FRAMEWORKS **NO** COMPILERS **NO** LIBRARIES **NO** BOILERPLATE
+
+Special Thanks to <a href="https://github.com/VincentGarreau/particles.js/">Particles.JS</a> for index page
